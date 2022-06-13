@@ -9,3 +9,4 @@ update 1 from child 2 pushing into main template
 update 2 from child 2 into template dev
 
 update 4 in main template
+update 5 in demo-child
